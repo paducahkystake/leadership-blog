@@ -15,4 +15,4 @@ The church handbook states stake leaders are asked to [witness Melchizedek Pries
 6. Enter your name on the field “Name of stake or district representative” and your calling in the “Position of stake or district representative”
 7. Submit the form back to the stake (text/email a photo of the form works when the physical form can’t be returned)
 
-![](../img/1_pHDBZqJT2iiMEbhdwA4S_A.webp)
+![](../assets/1_pHDBZqJT2iiMEbhdwA4S_A.webp)
