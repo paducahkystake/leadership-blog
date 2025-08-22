@@ -3,6 +3,7 @@ title: Witnessing a Melchizedek Priesthood Ordination
 date: 2021-07-02
 author: Executive Secretary
 permalink: witnessing-a-melchizedek-priesthood-ordination
+tags: melchizedek
 ---
 The church handbook states stake leaders are asked to [witness Melchizedek Priesthood ordinations](https://www.churchofjesuschrist.org/study/manual/general-handbook/18-priesthood-ordinances-and-blessings?lang=eng&para=title_number32-p160#title_number32). Here’s a step-by-step.
 
